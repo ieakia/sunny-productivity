@@ -5,6 +5,8 @@ My final project portfolio for ICT171. A simple, clean, user-friendly task manag
 # Overview
 - IP address: 13.60.14.37
 - Website: www.sunnyproductivity.live
+- SSL: Let's Encrypt
+- Domain: name.com
 
 # Website Features
 - Create tasks with titles and descriptions
